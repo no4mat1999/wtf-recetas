@@ -1,0 +1,12 @@
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\bin\Debug\Domain.dll.config
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\bin\Debug\Domain.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\bin\Debug\Domain.pdb
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\bin\Debug\EntityFramework.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\bin\Debug\EntityFramework.xml
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\obj\Debug\Domain.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Domain\obj\Debug\Domain.pdb

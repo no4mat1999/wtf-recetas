@@ -1,0 +1,15 @@
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\Data.dll.config
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\Data.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\Data.pdb
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\Domain.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\EntityFramework.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\Domain.pdb
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\Domain.dll.config
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\EntityFramework.xml
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\obj\Debug\Data.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Data\obj\Debug\Data.pdb

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbeb4f11-fac1-4800-ab3d-46cbad20b01e": {
+      "ProjectGuid": "fbeb4f11-fac1-4800-ab3d-46cbad20b01e",
+      "DisplayName": "RecetasSabrosonas",
+      "ColorIndex": 0
+    },
+    "ce62e1cb-b021-4ada-870a-5660f30de9c0": {
+      "ProjectGuid": "ce62e1cb-b021-4ada-870a-5660f30de9c0",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "54dd0f01-8e8c-41b2-8876-b9d3b14f7518": {
+      "ProjectGuid": "54dd0f01-8e8c-41b2-8876-b9d3b14f7518",
+      "DisplayName": "Data",
+      "ColorIndex": 2
+    },
+    "245871ee-f614-49fe-a597-6d6363ae8d86": {
+      "ProjectGuid": "245871ee-f614-49fe-a597-6d6363ae8d86",
+      "DisplayName": "RS",
+      "ColorIndex": 3
+    },
+    "3e9f0073-5888-40fb-b644-2f6d37d55123": {
+      "ProjectGuid": "3e9f0073-5888-40fb-b644-2f6d37d55123",
+      "DisplayName": "Services",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

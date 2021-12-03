@@ -1,0 +1,15 @@
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Services.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Services.pdb
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Data.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Domain.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\EntityFramework.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Data.pdb
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Data.dll.config
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Domain.pdb
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\Domain.dll.config
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\bin\Debug\EntityFramework.xml
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\obj\Debug\Services.dll
+C:\Users\no4mat\source\repos\RecetasSabrosonas\Services\obj\Debug\Services.pdb
